@@ -216,4 +216,4 @@ Kelebek is offered as a complete free version, with all features and updates inc
 Unlock the full potential of your Kodi experience with Kelebek! Download it today and start enjoying all the features it has to offer.
 
 ---
-**Last updated:** 2026-10-04 02:12:19 UTC
+**Last updated:** 2026-10-04 08:55:12 UTC
